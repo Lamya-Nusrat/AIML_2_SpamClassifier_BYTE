@@ -1,0 +1,5 @@
+message,predicted_label,confidence
+Congratulations! You have won a prize. Claim it now!,spam,0.9847846190444856
+Are we still meeting at the library at 4 pm?,ham,0.9783273715927491
+"URGENT! Your account won cash, call this number to claim.",spam,0.8632765559592205
+Please send me the lecture notes when you have time.,ham,0.9697931487664244

@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.9815891472868217,
+  "precision_spam": 1.0,
+  "recall_spam": 0.8515625,
+  "f1_spam": 0.919831223628692,
+  "train_count": 4126,
+  "test_count": 1032,
+  "original_count": 5572,
+  "cleaned_count": 5158,
+  "model": "TF-IDF + Multinomial Naive Bayes",
+  "positive_class": "spam"
+}
